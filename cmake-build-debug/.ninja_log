@@ -1,0 +1,23 @@
+# ninja log v6
+1	102	7526291778490249	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/Point.cpp.obj	eeedac4b241e4af
+7	415	7526291778550227	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+419	523	7526291782675899	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+8	356	7526292080336781	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+356	433	7526292083824469	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+23	302	7526292507448821	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+302	383	7526292510239838	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+22	266	7526292661464819	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+266	361	7526292663910164	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+17	262	7526292926869089	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+263	363	7526292929325871	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+18	270	7526293386105006	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+270	377	7526293388626312	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+21	120	7526296346404522	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/Point.cpp.obj	eeedac4b241e4af
+27	287	7526296346463925	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+287	402	7526296349058932	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+20	110	7526297649804088	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/Point.cpp.obj	eeedac4b241e4af
+27	357	7526297649874105	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+357	433	7526297653172037	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
+90	399	7535641964192304	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/Point.cpp.obj	eeedac4b241e4af
+113	533	7535641964417178	CMakeFiles/i_get_the_point_Ryan_B_Runo.dir/main.cpp.obj	735e70dea74709f2
+533	894	7535641968624346	i_get_the_point_Ryan_B_Runo.exe	3cc62f5fc7f42b81
